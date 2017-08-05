@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SHKHomePageModule_Example' do
+  pod 'SHKHomePageModule', :path => '../'
+
+  target 'SHKHomePageModule_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
