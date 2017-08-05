@@ -1,0 +1,27 @@
+{
+  "name": "SHKHomePageModule",
+  "version": "0.0.1",
+  "summary": "宋鸿康的库",
+  "description": "宋鸿康的描述",
+  "homepage": "https://github.com/songhongkang/SHKHomePageModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhfsd": "991150443@qq.com"
+  },
+  "source": {
+    "git": "git@github.com:songhongkang/SHKHomePageModule.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SHKHomePageModule/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

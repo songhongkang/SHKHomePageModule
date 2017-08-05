@@ -1,0 +1,6 @@
+framework module SHKHomePageModule {
+  umbrella header "SHKHomePageModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
